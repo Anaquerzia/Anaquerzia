@@ -1,4 +1,4 @@
-### Olá . Eu sou Anaquerzia, estudante de Engenharia da Computação na UNIFEI  👋
+### Olá . Eu sou Anaquerzia, estudante de Engenharia da Computação na UNIFEI,e sou apaixonada por tecnologia 👋
 
 
 - 🔭 Estou trabalhando com IA, e agrupamento Espectral ...
