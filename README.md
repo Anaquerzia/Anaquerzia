@@ -1,7 +1,5 @@
 ### Olá . Eu sou Anaquerzia, estudante de Engenharia da Computação na UNIFEI  👋
 
-<!--
-**Anaquerzia/Anaquerzia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Estou trabalhando com IA, e agrupamento Espectral ...
 - 🌱 Estudando C# .NET, Python  ...
